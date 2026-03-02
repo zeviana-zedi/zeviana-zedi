@@ -12,8 +12,6 @@ My focus areas include:
 - ICT governance and documentation
 - Automation for IT operational efficiency
 
----
-
 ## 🔧 Technical Areas
 
 - Routing & Switching (MikroTik, VLAN, Firewall)
@@ -23,21 +21,15 @@ My focus areas include:
 - Basic PowerShell & Automation
 - ICT Policy & SOP Development
 
----
-
 ## 📂 Current Projects
 
 - NGO ICT Infrastructure Template
 - ICT SOP & Policy Templates
 - IT Support Automation Scripts
 
----
-
 ## 🎯 Professional Goal
 
 To contribute to secure, reliable, and sustainable ICT systems that support organizational efficiency and digital transformation initiatives.
-
----
 
 📍 Based in Timor-Leste  
 🌐 Building professional ICT portfolio  # zeviana
