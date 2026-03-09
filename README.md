@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Ze Viana
 
-## ICT Specialist | Network & Systems Support | Infrastructure & Security
+## ICT Specialist | Web Developer | Network & Systems Support | Infrastructure & Security
 
 I am an ICT professional based in Timor-Leste with experience supporting network infrastructure, IT operations, and digital systems for organizational environments.
 
